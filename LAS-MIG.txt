@@ -1,0 +1,7 @@
+FÄRDIGA WEBBFILER
+
+Ladda upp hela innehållet i den här mappen till GitHub Pages eller webbhotellets public_html. index.html ligger i roten. Alla bilder och typsnitt finns i assets. Kontaktknapparna öppnar telefon eller mejlprogram; de visar inte en påhittad bokningsbekräftelse. Ingen installation krävs.
+
+Sökoptimering: unika titlar och beskrivningar, svensk språkkod, en huvudrubrik per sida, bildbeskrivningar, lokal företagsdata, robots.txt och sitemap.xml. Kanoniska länkar är inställda på företagets originaldomän. Ändra dem före lansering på annan domän.
+
+Omdömen och företagsuppgifter kontrollerade 25 november 2026; uppdatera dem vid ändringar.
